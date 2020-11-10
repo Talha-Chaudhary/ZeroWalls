@@ -1,0 +1,4 @@
+#Tue Nov 10 01:05:14 PKT 2020
+base.0=F\:\\React Native\\React-Native-FlatList-Slider\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
